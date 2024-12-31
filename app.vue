@@ -45,7 +45,7 @@
   <section class="About container">
     <div class="Separator"></div>
     <h1 class="mt-7 mb-4">luca marchesini</h1>
-    <h3 class="font-italic">luca@ok-computer.io</h3>
+    <h3 class="About-email">luca@ok-computer.io</h3>
   </section>
 </template>
 
@@ -87,5 +87,9 @@ function scrollToJumbotron() {
 .Feature-description {
   font-size: 1.2rem;
   font-family: Helvetica, Arial, sans-serif;
+}
+
+.About-email {
+  font-family: "LDN Modern No2 Italic", sans-serif;
 }
 </style>
