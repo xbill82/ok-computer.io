@@ -1,4 +1,4 @@
-# Nuxt Minimal Starter
+# OK-Computer.io
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
