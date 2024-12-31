@@ -1,0 +1,49 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #f4efda;
+  color: #33363F;
+}
+
+@font-face {
+  font-family: 'LDN Modern No2 Italic';
+  src: url('../assets/fonts/LDNModernNo2-Italic.woff') format('woff');
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LDN Modern No2 Regular';
+  src: url('../assets/fonts/LDNModernNo2-Regular.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
+
+h1, h2, h3, h4 {
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: 'LDN Modern No2 Regular', sans-serif;
+}
+
+h2 {
+  font-size: 3rem;
+  font-family: 'LDN Modern No2 Italic', sans-serif;
+}
+
+h3 {
+  font-size: 2rem;
+  font-family: 'LDN Modern No2 Regular', sans-serif;
+}
+
+h4 {
+  font-size: 1.5rem;
+  font-family: 'LDN Modern No2 Italic', sans-serif;
+}
