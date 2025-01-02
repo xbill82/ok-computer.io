@@ -88,8 +88,4 @@ function scrollToJumbotron() {
   font-size: 1.2rem;
   font-family: Helvetica, Arial, sans-serif;
 }
-
-.About-email {
-  font-family: "LDN Modern No2 Italic", sans-serif;
-}
 </style>
