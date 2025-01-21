@@ -2,10 +2,15 @@
 export default defineNuxtConfig({
   compatibilityDate: "2024-11-01",
   devtools: { enabled: true },
-  css: ["@/assets/main.css", "primeflex/primeflex.css"],
+  css: [
+    "@/assets/main.css",
+    "primeflex/primeflex.css",
+    "primeicons/primeicons.css",
+  ],
   vite: {
     assetsInclude: ["**/*.woff", "**/*.woff2"],
   },
+  modules: ["@primevue/nuxt-module"],
   app: {
     head: {
       link: [
