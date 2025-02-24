@@ -173,14 +173,14 @@ export default {
         //   quote:
         //     "Luca is a true professional. He is a great problem solver and has a knack for finding creative solutions to complex issues. He is also a great communicator and always keeps his clients updated on the progress of their projects.",
         // },
-        // {
-        //   image:
-        //     "https://media.licdn.com/dms/image/v2/D4E03AQGPG7FUZAILLA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1673954685532?e=1743033600&v=beta&t=zfyVPAHnXw-eBbxLsqCMu3mQzy6VGLU6n8MzAcqOiao",
-        //   name: "Benjamin Vergnet",
-        //   title: "Founder & CEO, Tresovista.com",
-        //   quote:
-        //     "Luca is a true professional. He is a great problem solver and has a knack for finding creative solutions to complex issues. He is also a great communicator and always keeps his clients updated on the progress of their projects.",
-        // },
+        {
+          image:
+            "https://media.licdn.com/dms/image/v2/D4E03AQGPG7FUZAILLA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1673954685532?e=1743033600&v=beta&t=zfyVPAHnXw-eBbxLsqCMu3mQzy6VGLU6n8MzAcqOiao",
+          name: "Benjamin Vergnet",
+          title: "Founder & CEO, Tresovista.com (Finance)",
+          quote:
+            "I reached out to Luca for support with the technical development of a web application dedicated to financial management! Very professional, Luca has excellent command of development technologies and programming languages. His contribution was invaluable, and I highly recommend him without hesitation!",
+        },
       ],
     };
   },
